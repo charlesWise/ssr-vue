@@ -1,2 +1,9 @@
-# ssr-vue
-服务器渲染测试
+```
+cd 到项目目录
+
+npm install
+
+npm run dev
+
+npm start
+```
